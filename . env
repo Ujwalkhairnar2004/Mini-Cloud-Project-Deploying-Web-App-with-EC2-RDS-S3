@@ -1,0 +1,9 @@
+DB_HOST=your-rds-endpoint
+DB_USER=root
+DB_PASS=your-password
+DB_NAME=image_upload_db
+
+AWS_REGION=ap-south-1
+AWS_KEY=your-key
+AWS_SECRET=your-secret
+AWS_BUCKET=your-bucket
